@@ -1,0 +1,7 @@
+{
+  "name": "my-intro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "청능사 · 언어재활사 자기소개 웹사이트",
+  "scripts": { "dev": "node server.js", "start": "node server.js", "check": "node --check script.js && node --check server.js", "build": "node build.js" }
+}
